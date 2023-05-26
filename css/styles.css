@@ -1,0 +1,179 @@
+.intro{
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(231, 4, 4);
+    background-color: black}
+
+.Erkanat{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:25px;
+    font-weight:600;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: overline;
+    font-display: auto;
+    text-overflow: clip;
+    text-decoration-color: red;
+    text-emphasis-color: yellow;
+    margin-top:1px;
+    margin-bottom:1px;
+    
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height:5px;
+}
+#just-text{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 2px red;
+    font-style: italic;
+    font-weight: 500;
+}
+
+main{
+    background-color:azure;
+}
+
+footer a{
+    font-size: 64px;
+    text-decoration: none;
+    color: rgb(120, 0, 84);
+}
+
+main section h1{
+    color:red;
+}
+
+#hey{
+    text-align:center;
+    text-decoration: none;
+    letter-spacing: 2px;
+    color:brown;
+    font-weight:700;
+    text-shadow: 1px 1px 1px blue;
+
+}
+
+/* achievements */
+
+.achi{
+    background-image: url('/img/929b9acbe763ad98f8a0e856b1172773.jpeg');
+    height: 280px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 10px;
+    margin-left: -10px;
+    margin-right: -20px;
+    margin-top: -10px;
+
+}
+nav, button {
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin: 0px 0px -25px 0px;
+}
+
+greet{
+    text-align: center;
+    font-family:'Gil Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: -110px -1px -50px -1px;
+    padding: -23px -1px -10px -10px;
+    color: black;
+    
+}
+body, main{
+    background-color:rgb(229, 40, 40)
+}
+
+main section ul li a, ul{
+    font-weight: 600;
+    margin-top: -30px;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: black;
+}
+#real ul li a:active{
+    color:aliceblue;
+}
+#real{
+    margin: 0px -1px 0px -1px;
+}
+
+
+footer{
+    color: white;
+    text-shadow: 5px 2px 5px black;
+    font-family:'Gil Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+#insa{
+    position: relative;
+    right: 160px;
+    top: -0.1cm;
+}
+#youtube{
+    position: relative;
+    right: -10px;
+    top:-0.25cm;
+}
+
+
+
+#main-header{
+    text-align: center;
+}
+
+.main-body{
+    background-color: rgb(183, 188, 192);
+}
+
+#main-nav, button{
+    text-align: center;
+    
+}
+
+#myoutube{
+    position: relative;
+    left: -150px;
+    top:-0.35cm;
+}
+
+.bye{
+    color: white;
+    text-shadow: 5px 2px 5px black;
+    font-family:'Gil Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.bye:hover{
+    color: black;
+}
+
+
+
+/*
+li {
+  display: inline;
+}
+a {
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 1%;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  width: 31%;
+  color: white;
+  background-color: green;
+}
+a:hover {
+  background: blue;
+} 
+*/
